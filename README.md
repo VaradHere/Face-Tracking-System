@@ -85,9 +85,7 @@ STL files (`tracker v6.stl`, `tracker v8.stl`, `main.stl`) located in the `3d_de
 ## ✔️ Methodology
 
 
-```markdown
 ![WorkFLow of Face Tracking System](./images/image.png)
-```
 
 ---
 
