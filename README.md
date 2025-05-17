@@ -91,16 +91,16 @@ STL files (`tracker v6.stl`, `tracker v8.stl`, `main.stl`) located in the `3d_de
 
 ## Modifications 
 
--- This is not the final objective of the Work Idea 
--- The current work can be modified for meet the final outcome
--- This current model is limited to the led actuated output which can be further modified with some tweaking in the in the controller code. 
--- Further, modification of further work is not commited as of this commit.
+- This is not the final objective of the Work Idea 
+-  The current work can be modified to meet the final outcome
+-  This current model is limited to the led actuated output which can be further modified with some tweaking in the in the controller code. 
+-  Further, modification of future proposed work is not commited as of this commit.
 
 ## Contribution 
--- This Repo is open to contribution 
--- Go ahead, to clone or fork the repo 
--- Create your own feature and then commit it into your branch 
--- Send a Pull request for your feature commit 
+- This Repo is open to contribution 
+- Go ahead, to clone or fork the repo 
+- Create your own feature and then commit it into your branch 
+- Send a Pull request for your feature commit 
 
 
 
